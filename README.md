@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Singh
 - 👀 I’m interested in DATA SCIENTIST ,Machine Learning ,Data Structures and Some WebDev.
-- 🌱 I’m currently Persuing My B.Tech in Computer Science. 
+- 🌱 I’m currently Pursuing My B.Tech in Computer Science. 
 - 💞️ I’m looking to collaborate on Some Inovative Projects 
 - 📫 How to reach me on amitschouhan118@gmail.com 
 
